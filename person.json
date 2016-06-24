@@ -1,0 +1,16 @@
+{  
+   "person":{  
+      "address":{  
+         "street-number":"949",
+         "street":"Oberlin Road",
+         "city":"Raleigh",
+         "st":"North Carolina",
+         "zip-code":"27608",
+         "unit-number":null
+      },
+      "gender":"male",
+      "given-name":"Steven",
+      "last-name":"Smith",
+      "imageURL":"/assets/img/male2.png"
+   }
+}
